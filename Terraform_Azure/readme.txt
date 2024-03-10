@@ -1,0 +1,1 @@
+This project introduced the concept of creating Azure architexture via Terraform scripting. Specifically, this project creates object storage locations that can then be connected as part of a data pipeline in Azure Data Factory. 
